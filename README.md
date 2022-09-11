@@ -1,4 +1,2 @@
-# estructura_de_datos
-este repositorio es para subir tareas del la materia h2-h5 /2022
-"estructura de datos"
-
+# Base-de-Datos-2
+portafolio de la asignatura de base de datos 2...   :v
